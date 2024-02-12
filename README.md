@@ -27,4 +27,4 @@ De este conocido sitio web nos pareció interesante el slider gigante que tiene 
 * Tomás Ochotorena
 * Francisco Alonso
 * Santiago Alvarez
-*
+* Manuel Castillo 
